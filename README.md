@@ -1,3 +1,3 @@
 # bir
 
-![elso](a.pgn)
+!(a.pgn)
